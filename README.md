@@ -1,1 +1,1 @@
-# vege-bio_infection
+Code used to implement the model and carry out the analysis described in the article "Vegetation cover and biodiversity reduce parasite infection in wild hosts across ecological levels and scales" (Andreazzi et al, Ecography 5, e6579 (2023)).
